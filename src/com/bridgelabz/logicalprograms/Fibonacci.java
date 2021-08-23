@@ -2,6 +2,7 @@ package com.bridgelabz.logicalprograms;
 
 public class Fibonacci {
 	public static void main(String[] args) {
+		
 		int fibonacciLimit = 15;
 		int previousTerm1 = 1;
 		int previousTerm2 = 0;
