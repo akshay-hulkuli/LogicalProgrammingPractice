@@ -15,5 +15,5 @@ public class PerfectNumber {
 		else {
 			System.out.println("This is not perfect number");
 		}
-	}
+	} 
 }
